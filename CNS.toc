@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}Symmetric ciphers}{2}{section.2}
+\contentsline {section}{\numberline {3}Message authentication}{2}{section.3}
+\contentsline {subsection}{\numberline {3.1}Hash functions}{2}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Secure Hash Algorithm (SHA)}{3}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Length extension attack and SHA3}{3}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Message authentication}{3}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Message authentication codes}{3}{subsection.3.5}
+\contentsline {section}{\numberline {4}Asymmetric encryption}{3}{section.4}
+\contentsline {section}{\numberline {5}Key distribution}{3}{section.5}

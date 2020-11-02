@@ -1,0 +1,10 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Symmetric ciphers}{}% 2
+\BOOKMARK [1][-]{section.3}{Message authentication}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Hash functions}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Secure Hash Algorithm \(SHA\)}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Length extension attack and SHA3}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{Message authentication}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.5}{Message authentication codes}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Asymmetric encryption}{}% 9
+\BOOKMARK [1][-]{section.5}{Key distribution}{}% 10

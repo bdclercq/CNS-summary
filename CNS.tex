@@ -1,0 +1,64 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx} % This lets you include figures
+\usepackage{hyperref} % This lets you make links to web locations
+\graphicspath{ {./images/} }
+
+\usepackage[rightcaption]{sidecap}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{hyperref}
+
+\usepackage{float}
+
+\usepackage{imakeidx}
+
+\makeindex
+
+
+\title{Computer and network security}
+\author{Beau De Clercq}
+\date{2020-2021}
+
+\begin{document}
+	
+ \maketitle{}
+ 
+ \tableofcontents
+ 
+ \clearpage
+ \newpage
+ 
+ \section{Introduction}
+ 
+ \section{Symmetric ciphers}
+ 
+ \section{Message authentication}
+ \subsection{Hash functions}
+ A hash function H is a function that takes input data blocks of length M and returns a hash value of fixed size R.\\
+ A cryptographic hash function that also satisfies following conditions:
+ \begin{itemize}
+ 	\item One way property: it should be infeasible to find a data object that maps to a predefined hash value.
+ 	\item Collision free property: it should be infeasible to find 2 data objects that map to the same hash value.
+ 	\item Use padding to pad up input to fixed length and add the length l of the block in bits. 
+ \end{itemize}
+By satisfying the first two properties, hash functions can  be used to determine if data has been altered.\\
+Hash functions can be used in an number of applications:
+\begin{itemize}
+	\item Message authentication: to ensure a message hasn't been altered.
+	\item Digital signatures: ensure the authenticity of messages and identity of the sender.
+	\item One-way password file: store hash value of password in plain text file.
+	\item Intrusion/virus detection: store H(f) for each file to determine if files have been modified.
+	\item Pseudorandom function: use H to generate pseudorandom private key.
+\end{itemize}
+
+ 
+ \subsection{Secure Hash Algorithm (SHA)}
+ \subsection{Length extension attack and SHA3}
+ \subsection{Message authentication}
+ \subsection{Message authentication codes}
+ 
+ \section{Asymmetric encryption}
+ 
+ \section{Key distribution}
+  
+\end{document}
