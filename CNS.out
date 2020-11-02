@@ -2,9 +2,20 @@
 \BOOKMARK [1][-]{section.2}{Symmetric ciphers}{}% 2
 \BOOKMARK [1][-]{section.3}{Message authentication}{}% 3
 \BOOKMARK [2][-]{subsection.3.1}{Hash functions}{section.3}% 4
-\BOOKMARK [2][-]{subsection.3.2}{Secure Hash Algorithm \(SHA\)}{section.3}% 5
-\BOOKMARK [2][-]{subsection.3.3}{Length extension attack and SHA3}{section.3}% 6
-\BOOKMARK [2][-]{subsection.3.4}{Message authentication}{section.3}% 7
-\BOOKMARK [2][-]{subsection.3.5}{Message authentication codes}{section.3}% 8
-\BOOKMARK [1][-]{section.4}{Asymmetric encryption}{}% 9
-\BOOKMARK [1][-]{section.5}{Key distribution}{}% 10
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Applications}{subsection.3.1}% 5
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Security requirements}{subsection.3.1}% 6
+\BOOKMARK [3][-]{subsubsection.3.1.3}{Attacks}{subsection.3.1}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Secure Hash Algorithm \(SHA\)}{section.3}% 8
+\BOOKMARK [3][-]{subsubsection.3.2.1}{SHA512}{subsection.3.2}% 9
+\BOOKMARK [3][-]{subsubsection.3.2.2}{SHA512 block processing}{subsection.3.2}% 10
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Message schedule}{subsection.3.2}% 11
+\BOOKMARK [2][-]{subsection.3.3}{Length extension attack and SHA3}{section.3}% 12
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Length extension attack}{subsection.3.3}% 13
+\BOOKMARK [3][-]{subsubsection.3.3.2}{SHA3}{subsection.3.3}% 14
+\BOOKMARK [2][-]{subsection.3.4}{Message authentication}{section.3}% 15
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Security requirements for MAC}{subsection.3.4}% 16
+\BOOKMARK [2][-]{subsection.3.5}{Message authentication codes}{section.3}% 17
+\BOOKMARK [3][-]{subsubsection.3.5.1}{Cipher-based MAC \(CMAC\)}{subsection.3.5}% 18
+\BOOKMARK [3][-]{subsubsection.3.5.2}{Hash-based MAC \(HMAC\)}{subsection.3.5}% 19
+\BOOKMARK [1][-]{section.4}{Asymmetric encryption}{}% 20
+\BOOKMARK [1][-]{section.5}{Key distribution}{}% 21
