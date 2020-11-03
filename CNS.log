@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.8.28)  2 NOV 2020 16:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.8.28)  3 NOV 2020 10:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -764,13 +764,13 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 41.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (./CNS.toc)
+) (./CNS.toc [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
 \tf@toc=\write6
 \openout6 = `CNS.toc'.
 
- [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+ [2]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 57.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
@@ -778,17 +778,17 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 57.
- [2
+ [3
 
 ]
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
 ine 109.
- [3] [4]
+ [4] [5]
 Underfull \hbox (badness 10000) in paragraph at lines 152--157
 
  []
 
-[5]
+[6]
 Overfull \hbox (36.60353pt too wide) in paragraph at lines 176--177
 []\OT1/cmr/m/n/12 If $\OML/cmm/m/it/12 M[]$ \OT1/cmr/m/n/12 is a known trans-fo
 r-ma-tion of $\OML/cmm/m/it/12 M$\OT1/cmr/m/n/12 , then $\U/msb/m/n/12 P\OT1/cm
@@ -797,40 +797,75 @@ n/12 ) = \OML/cmm/m/it/12 MAC\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 K; M[]\OT1/cmr/m
 /n/12 ) =
  []
 
-[6] [7] [8]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 224.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 224.
+[7] [8]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+ [9] [10]
+Underfull \hbox (badness 6526) in paragraph at lines 251--252
+\OT1/cmr/m/n/12 the pri-vate key $\OML/cmm/m/it/12 PR[]$ \OT1/cmr/m/n/12 and a
+ []
+
+
+Underfull \hbox (badness 5787) in paragraph at lines 251--252
+\OT1/cmr/m/n/12 ci-pher-text $\OML/cmm/m/it/12 C$\OT1/cmr/m/n/12 , to re-cover 
+the
+ []
+
+[11] [12]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 284.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 284.
  (./CNS.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 224.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 224.
-Package rerunfilecheck Info: File `CNS.out' has not changed.
-(rerunfilecheck)             Checksum: 8046948BFEE2EA7CFEDF2989407275D8;1483.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 224.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 284.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 284.
+
+
+Package rerunfilecheck Warning: File `CNS.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `CNS.out':
+(rerunfilecheck)             Before: 9207327C721DE11DA69C743C4E7CF253;3422
+(rerunfilecheck)             After:  822ACDB5B57C318D7E248DB20FE18AAA;3522.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 284.
  ) 
 Here is how much of TeX's memory you used:
- 19030 strings out of 492982
- 362937 string characters out of 6134896
+ 19083 strings out of 492982
+ 363893 string characters out of 6134896
  429006 words of memory out of 5000000
- 22227 multiletter control sequences out of 15000+600000
+ 22251 multiletter control sequences out of 15000+600000
  12403 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,10n,80p,425b,776s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,10n,80p,749b,776s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/
-msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/m
-sbm10.pfb>
-Output written on CNS.pdf (8 pages, 131191 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.
+pfb>
+Output written on CNS.pdf (12 pages, 152827 bytes).
 PDF statistics:
- 228 PDF objects out of 1000 (max. 8388607)
- 203 compressed objects within 3 object streams
- 46 named destinations out of 1000 (max. 500000)
- 181 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 376 PDF objects out of 1000 (max. 8388607)
+ 345 compressed objects within 4 object streams
+ 75 named destinations out of 1000 (max. 500000)
+ 373 words of extra memory for PDF output out of 10000 (max. 10000000)
 
