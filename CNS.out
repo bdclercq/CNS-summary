@@ -40,7 +40,28 @@
 \BOOKMARK [3][-]{subsubsection.4.5.1}{Introduction}{subsection.4.5}% 40
 \BOOKMARK [3][-]{subsubsection.4.5.2}{Required properties of a digital signature}{subsection.4.5}% 41
 \BOOKMARK [3][-]{subsubsection.4.5.3}{RSA-PSS}{subsection.4.5}% 42
-\BOOKMARK [3][-]{subsubsection.4.5.4}{RSA-PSS encoding}{subsection.4.5}% 43
-\BOOKMARK [3][-]{subsubsection.4.5.5}{MGF}{subsection.4.5}% 44
-\BOOKMARK [3][-]{subsubsection.4.5.6}{RSA-PSS signature verification}{subsection.4.5}% 45
-\BOOKMARK [1][-]{section.5}{Key distribution}{}% 46
+\BOOKMARK [3][-]{subsubsection.4.5.4}{RSA-PSS MGF \(Mask Generating Function\)}{subsection.4.5}% 43
+\BOOKMARK [3][-]{subsubsection.4.5.5}{RSA-PSS signature verification}{subsection.4.5}% 44
+\BOOKMARK [1][-]{section.5}{Key distribution}{}% 45
+\BOOKMARK [2][-]{subsection.5.1}{Symmetric private key distribution}{section.5}% 46
+\BOOKMARK [3][-]{subsubsection.5.1.1}{Decentralized key control without third party}{subsection.5.1}% 47
+\BOOKMARK [2][-]{subsection.5.2}{Key Distribution Centers \(KDCs\)}{section.5}% 48
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Hierarchical structure}{subsection.5.2}% 49
+\BOOKMARK [3][-]{subsubsection.5.2.2}{KDC scenario}{subsection.5.2}% 50
+\BOOKMARK [3][-]{subsubsection.5.2.3}{Hierarchical key control}{subsection.5.2}% 51
+\BOOKMARK [3][-]{subsubsection.5.2.4}{Transparent key control scheme}{subsection.5.2}% 52
+\BOOKMARK [2][-]{subsection.5.3}{Asymmetric private key distribution}{section.5}% 53
+\BOOKMARK [3][-]{subsubsection.5.3.1}{Symmetric key distribution using asymmetric encryption}{subsection.5.3}% 54
+\BOOKMARK [3][-]{subsubsection.5.3.2}{Diffie-Hellman key exchange}{subsection.5.3}% 55
+\BOOKMARK [2][-]{subsection.5.4}{Secure distribution of public keys}{section.5}% 56
+\BOOKMARK [3][-]{subsubsection.5.4.1}{Public announcement}{subsection.5.4}% 57
+\BOOKMARK [3][-]{subsubsection.5.4.2}{Public directory}{subsection.5.4}% 58
+\BOOKMARK [3][-]{subsubsection.5.4.3}{Public key authority}{subsection.5.4}% 59
+\BOOKMARK [3][-]{subsubsection.5.4.4}{Certificates}{subsection.5.4}% 60
+\BOOKMARK [2][-]{subsection.5.5}{X.509 certificates}{section.5}% 61
+\BOOKMARK [3][-]{subsubsection.5.5.1}{Certificate generation/working}{subsection.5.5}% 62
+\BOOKMARK [3][-]{subsubsection.5.5.2}{X.509 format}{subsection.5.5}% 63
+\BOOKMARK [3][-]{subsubsection.5.5.3}{CA organization}{subsection.5.5}% 64
+\BOOKMARK [3][-]{subsubsection.5.5.4}{Certificate revocation}{subsection.5.5}% 65
+\BOOKMARK [3][-]{subsubsection.5.5.5}{Certificate extensions field}{subsection.5.5}% 66
+\BOOKMARK [3][-]{subsubsection.5.5.6}{Public Key Infrastructure \(PKI\)}{subsection.5.5}% 67
