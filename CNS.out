@@ -65,3 +65,44 @@
 \BOOKMARK [3][-]{subsubsection.5.5.4}{Certificate revocation}{subsection.5.5}% 65
 \BOOKMARK [3][-]{subsubsection.5.5.5}{Certificate extensions field}{subsection.5.5}% 66
 \BOOKMARK [3][-]{subsubsection.5.5.6}{Public Key Infrastructure \(PKI\)}{subsection.5.5}% 67
+\BOOKMARK [1][-]{section.6}{Access Control}{}% 68
+\BOOKMARK [2][-]{subsection.6.1}{Authentication and authorization}{section.6}% 69
+\BOOKMARK [2][-]{subsection.6.2}{Network Access Control \(NAC\)}{section.6}% 70
+\BOOKMARK [3][-]{subsubsection.6.2.1}{Network access control}{subsection.6.2}% 71
+\BOOKMARK [3][-]{subsubsection.6.2.2}{Extensible authentication protocol \(EAP\)}{subsection.6.2}% 72
+\BOOKMARK [3][-]{subsubsection.6.2.3}{802.1x port based NAC}{subsection.6.2}% 73
+\BOOKMARK [3][-]{subsubsection.6.2.4}{802.1x EAP over LAN \(EAPOL\)}{subsection.6.2}% 74
+\BOOKMARK [2][-]{subsection.6.3}{Firewalls}{section.6}% 75
+\BOOKMARK [3][-]{subsubsection.6.3.1}{Firewall types}{subsection.6.3}% 76
+\BOOKMARK [3][-]{subsubsection.6.3.2}{Firewall placement and demilitarized zone \(DMZ\)}{subsection.6.3}% 77
+\BOOKMARK [2][-]{subsection.6.4}{Intrusion detection}{section.6}% 78
+\BOOKMARK [3][-]{subsubsection.6.4.1}{Intrusion detection systems}{subsection.6.4}% 79
+\BOOKMARK [3][-]{subsubsection.6.4.2}{Types of intrusion detection}{subsection.6.4}% 80
+\BOOKMARK [3][-]{subsubsection.6.4.3}{Distributed intrusion detection}{subsection.6.4}% 81
+\BOOKMARK [3][-]{subsubsection.6.4.4}{Honeypots}{subsection.6.4}% 82
+\BOOKMARK [2][-]{subsection.6.5}{IP Security \(IPSec\) and VPN}{section.6}% 83
+\BOOKMARK [3][-]{subsubsection.6.5.1}{Modes of operation}{subsection.6.5}% 84
+\BOOKMARK [3][-]{subsubsection.6.5.2}{IPSec architecture}{subsection.6.5}% 85
+\BOOKMARK [3][-]{subsubsection.6.5.3}{Encapsulating Security payload \(ESP\)}{subsection.6.5}% 86
+\BOOKMARK [3][-]{subsubsection.6.5.4}{Internet key exchange}{subsection.6.5}% 87
+\BOOKMARK [1][-]{section.7}{Secure Network Protocols}{}% 88
+\BOOKMARK [2][-]{subsection.7.1}{Wifi security basics}{section.7}% 89
+\BOOKMARK [2][-]{subsection.7.2}{Transport layer security \(SSL/TLS\)}{section.7}% 90
+\BOOKMARK [3][-]{subsubsection.7.2.1}{Handshake protocol phases}{subsection.7.2}% 91
+\BOOKMARK [3][-]{subsubsection.7.2.2}{Creation of symmetric keys}{subsection.7.2}% 92
+\BOOKMARK [2][-]{subsection.7.3}{Attacks against SSL and TLS}{section.7}% 93
+\BOOKMARK [3][-]{subsubsection.7.3.1}{Heartbleed attack}{subsection.7.3}% 94
+\BOOKMARK [3][-]{subsubsection.7.3.2}{POODLE}{subsection.7.3}% 95
+\BOOKMARK [2][-]{subsection.7.4}{Secure SHell}{section.7}% 96
+\BOOKMARK [1][-]{section.8}{Application layer security}{}% 97
+\BOOKMARK [2][-]{subsection.8.1}{Email security}{section.8}% 98
+\BOOKMARK [3][-]{subsubsection.8.1.1}{SMIME}{subsection.8.1}% 99
+\BOOKMARK [3][-]{subsubsection.8.1.2}{PGP}{subsection.8.1}% 100
+\BOOKMARK [2][-]{subsection.8.2}{Web security}{section.8}% 101
+\BOOKMARK [2][-]{subsection.8.3}{Malicious software}{section.8}% 102
+\BOOKMARK [3][-]{subsubsection.8.3.1}{Trojan horse browser: Zeus-in-the-mobile \(ZitMo\)}{subsection.8.3}% 103
+\BOOKMARK [3][-]{subsubsection.8.3.2}{Malware propagation}{subsection.8.3}% 104
+\BOOKMARK [3][-]{subsubsection.8.3.3}{Malware payload}{subsection.8.3}% 105
+\BOOKMARK [3][-]{subsubsection.8.3.4}{DDoS}{subsection.8.3}% 106
+\BOOKMARK [1][-]{section.9}{Guest lecture: IoT}{}% 107
+\BOOKMARK [2][-]{subsection.9.1}{Introduction}{section.9}% 108

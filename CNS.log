@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.20)  30 DEC 2020 00:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.20)  1 JAN 2021 22:55
 entering extended mode
 **./CNS.tex
 (CNS.tex
@@ -756,29 +756,63 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (CNS.toc [1
 
 {C:/Users/bdcle/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-[2])
+[2] [3])
 \tf@toc=\write6
 \openout6 = `CNS.toc'.
 
- [3]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 60.
+ [4] [5
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 61.
  (D:\MiKTeX\tex\latex\base\omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 60.
- [4
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 61.
+ [6]
+<./slides/L3P1BFCOL.PNG, id=576, 660.96938pt x 434.37282pt>
+File: ./slides/L3P1BFCOL.PNG Graphic file (type png)
+<use ./slides/L3P1BFCOL.PNG>
+Package pdftex.def Info: ./slides/L3P1BFCOL.PNG  used on input line 113.
+(pdftex.def)             Requested size: 360.6253pt x 237.00356pt.
+ [7]
+<./slides/L3P2SHA.PNG, id=588, 680.5425pt x 374.14781pt>
+File: ./slides/L3P2SHA.PNG Graphic file (type png)
+<use ./slides/L3P2SHA.PNG>
+Package pdftex.def Info: ./slides/L3P2SHA.PNG  used on input line 117.
+(pdftex.def)             Requested size: 312.00119pt x 171.53346pt.
+<./slides/L3P2SHA512.PNG, id=589, 615.80063pt x 453.94594pt>
+File: ./slides/L3P2SHA512.PNG Graphic file (type png)
+<use ./slides/L3P2SHA512.PNG>
+Package pdftex.def Info: ./slides/L3P2SHA512.PNG  used on input line 119.
+(pdftex.def)             Requested size: 390.0pt x 287.49745pt.
+ [8 <./slides/L3P1BFCOL.PNG> <./slides/L3P2SHA.PNG>]
+<./slides/L3P2SHA512BLOCK.PNG, id=596, 627.09282pt x 441.14813pt>
+File: ./slides/L3P2SHA512BLOCK.PNG Graphic file (type png)
+<use ./slides/L3P2SHA512BLOCK.PNG>
+Package pdftex.def Info: ./slides/L3P2SHA512BLOCK.PNG  used on input line 121.
+(pdftex.def)             Requested size: 312.00119pt x 219.49649pt.
+<./slides/L3P2SHA512ROUND.PNG, id=597, 639.13782pt x 488.57532pt>
+File: ./slides/L3P2SHA512ROUND.PNG Graphic file (type png)
+<use ./slides/L3P2SHA512ROUND.PNG>
+Package pdftex.def Info: ./slides/L3P2SHA512ROUND.PNG  used on input line 122.
+(pdftex.def)             Requested size: 312.00119pt x 238.50194pt.
 
-]
+Overfull \hbox (3.98506pt too wide) in paragraph at lines 121--125
+[] \OT1/cmr/m/n/12 In this 80 round
+ []
+
+[9 <./slides/L3P2SHA512.PNG>] [10 <./slides/L3P2SHA512BLOCK.PNG> <./slides/L3P2
+SHA512ROUND.PNG>]
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 112.
- [5] [6]
-Underfull \hbox (badness 10000) in paragraph at lines 155--160
+ine 140.
+ [11]
+Underfull \hbox (badness 10000) in paragraph at lines 156--161
 
  []
 
-[7]
-Overfull \hbox (36.60353pt too wide) in paragraph at lines 179--180
+[12]
+Overfull \hbox (36.60353pt too wide) in paragraph at lines 180--181
 []\OT1/cmr/m/n/12 If $\OML/cmm/m/it/12 M[]$ \OT1/cmr/m/n/12 is a known trans-fo
 r-ma-tion of $\OML/cmm/m/it/12 M$\OT1/cmr/m/n/12 , then $\U/msb/m/n/12 P\OT1/cm
 r/m/n/12 (\OML/cmm/m/it/12 MAC\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 K; M\OT1/cmr/m/
@@ -786,7 +820,13 @@ n/12 ) = \OML/cmm/m/it/12 MAC\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 K; M[]\OT1/cmr/m
 /n/12 ) =
  []
 
-[8] [9]
+[13]
+<./slides/L3P5HMAC.PNG, id=634, 682.04813pt x 427.5975pt>
+File: ./slides/L3P5HMAC.PNG Graphic file (type png)
+<use ./slides/L3P5HMAC.PNG>
+Package pdftex.def Info: ./slides/L3P5HMAC.PNG  used on input line 212.
+(pdftex.def)             Requested size: 360.6253pt x 226.09058pt.
+ [14 <./slides/L3P5HMAC.PNG>]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
@@ -802,19 +842,19 @@ Missing character: There is no ô in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
- [10] [11]
-Underfull \hbox (badness 6526) in paragraph at lines 254--255
+ [15]
+Underfull \hbox (badness 6526) in paragraph at lines 256--257
 \OT1/cmr/m/n/12 the pri-vate key $\OML/cmm/m/it/12 PR[]$ \OT1/cmr/m/n/12 and a
  []
 
 
-Underfull \hbox (badness 5787) in paragraph at lines 254--255
+Underfull \hbox (badness 5787) in paragraph at lines 256--257
 \OT1/cmr/m/n/12 ci-pher-text $\OML/cmm/m/it/12 C$\OT1/cmr/m/n/12 , to re-cover 
 the
  []
 
-
-Overfull \hbox (7.99532pt too wide) detected at line 278
+[16]
+Overfull \hbox (7.99532pt too wide) detected at line 280
 \OML/cmm/m/it/12 M[] \OMS/cmsy/m/n/12  \OML/cmm/m/it/12 M[]n \OT1/cmr/m/n/12 =
  \OML/cmm/m/it/12 M[][]n \OMS/cmsy/m/n/12 , \OML/cmm/m/it/12 ed \OMS/cmsy/m/n/1
 2  \OT1/cmr/m/n/12 1[]\OML/cmm/m/it/12 \OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n\OT
@@ -822,25 +862,29 @@ Overfull \hbox (7.99532pt too wide) detected at line 278
 m/m/it/12 e[][]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n\OT1/cmr/m/n/12 )
  []
 
-[12] [13] [14] [15]
-<./slides/L4P5intro.PNG, id=443, 780.66656pt x 348.55219pt>
+
+Overfull \vbox (12.29167pt too high) has occurred while \output is active []
+
+
+[17] [18] [19] [20]
+<./slides/L4P5intro.PNG, id=676, 780.66656pt x 348.55219pt>
 File: ./slides/L4P5intro.PNG Graphic file (type png)
 <use ./slides/L4P5intro.PNG>
-Package pdftex.def Info: ./slides/L4P5intro.PNG  used on input line 377.
+Package pdftex.def Info: ./slides/L4P5intro.PNG  used on input line 379.
 (pdftex.def)             Requested size: 390.0pt x 174.12674pt.
- [16 <./slides/L4P5intro.PNG>]
-<./slides/L4P5RSAPSS.PNG, id=450, 780.66656pt x 426.09187pt>
+ [21 <./slides/L4P5intro.PNG>]
+<./slides/L4P5RSAPSS.PNG, id=682, 780.66656pt x 426.09187pt>
 File: ./slides/L4P5RSAPSS.PNG Graphic file (type png)
 <use ./slides/L4P5RSAPSS.PNG>
-Package pdftex.def Info: ./slides/L4P5RSAPSS.PNG  used on input line 392.
+Package pdftex.def Info: ./slides/L4P5RSAPSS.PNG  used on input line 394.
 (pdftex.def)             Requested size: 390.0pt x 212.86336pt.
-<./slides/L4P5RSAPSSENC.png, id=451, 704.6325pt x 507.39563pt>
+<./slides/L4P5RSAPSSENC.png, id=683, 704.6325pt x 507.39563pt>
 File: ./slides/L4P5RSAPSSENC.png Graphic file (type png)
 <use ./slides/L4P5RSAPSSENC.png>
-Package pdftex.def Info: ./slides/L4P5RSAPSSENC.png  used on input line 396.
+Package pdftex.def Info: ./slides/L4P5RSAPSSENC.png  used on input line 398.
 (pdftex.def)             Requested size: 390.0pt x 280.83368pt.
- [17 <./slides/L4P5RSAPSS.PNG>] [18 <./slides/L4P5RSAPSSENC.png>]
-Overfull \hbox (83.98305pt too wide) in paragraph at lines 427--428
+ [22 <./slides/L4P5RSAPSS.PNG>] [23 <./slides/L4P5RSAPSSENC.png>]
+Overfull \hbox (83.98305pt too wide) in paragraph at lines 429--430
 []\OT1/cmr/m/n/12 Generate a pseu-do-ran-dom octet string salt and form block $
 \OML/cmm/m/it/12 M[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 padding\OT1/cmr/m/n/12 
 1\OMS/cmsy/m/n/12 jj\OML/cmm/m/it/12 mHash\OMS/cmsy/m/n/12 jj\OML/cmm/m/it/12 s
@@ -848,136 +892,639 @@ alt$
  []
 
 
-Overfull \hbox (14.21033pt too wide) in paragraph at lines 432--433
+Overfull \hbox (14.21033pt too wide) in paragraph at lines 434--435
 []\OT1/cmr/m/n/12 Set the left-most 8 $\OML/cmm/m/it/12 emLen \OMS/cmsy/m/n/12 
   \OML/cmm/m/it/12 emBits$ \OT1/cmr/m/n/12 bits of the left-most octet in $\OML
 /cmm/m/it/12 maskedDB$
  []
 
-<./slides/L4P5RSAPSSMGF.PNG, id=464, 513.41812pt x 267.24844pt>
+<./slides/L4P5RSAPSSMGF.PNG, id=696, 513.41812pt x 267.24844pt>
 File: ./slides/L4P5RSAPSSMGF.PNG Graphic file (type png)
 <use ./slides/L4P5RSAPSSMGF.PNG>
-Package pdftex.def Info: ./slides/L4P5RSAPSSMGF.PNG  used on input line 438.
+Package pdftex.def Info: ./slides/L4P5RSAPSSMGF.PNG  used on input line 440.
 (pdftex.def)             Requested size: 312.00119pt x 162.40555pt.
-[19]
-<./slides/L4P5RSAPSSSIGVER.PNG, id=470, 727.21687pt x 581.17125pt>
+[24]
+<./slides/L4P5RSAPSSSIGVER.PNG, id=701, 727.21687pt x 581.17125pt>
 File: ./slides/L4P5RSAPSSSIGVER.PNG Graphic file (type png)
 <use ./slides/L4P5RSAPSSSIGVER.PNG>
-Package pdftex.def Info: ./slides/L4P5RSAPSSSIGVER.PNG  used on input line 441.
+Package pdftex.def Info: ./slides/L4P5RSAPSSSIGVER.PNG  used on input line 443.
 
 (pdftex.def)             Requested size: 312.00119pt x 249.34895pt.
- [20 <./slides/L4P5RSAPSSMGF.PNG> <./slides/L4P5RSAPSSSIGVER.PNG>]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 447--452
+ [25 <./slides/L4P5RSAPSSMGF.PNG> <./slides/L4P5RSAPSSSIGVER.PNG>] [26]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 450--455
 [] 
  []
 
-<./slides/L5P1.PNG, id=476, 606.76688pt x 239.39438pt>
+<./slides/L5P1.PNG, id=712, 606.76688pt x 239.39438pt>
 File: ./slides/L5P1.PNG Graphic file (type png)
 <use ./slides/L5P1.PNG>
-Package pdftex.def Info: ./slides/L5P1.PNG  used on input line 465.
+Package pdftex.def Info: ./slides/L5P1.PNG  used on input line 468.
 (pdftex.def)             Requested size: 390.0pt x 153.87303pt.
-[21]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 474--479
+[27 <./slides/L5P1.PNG>]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 477--482
 [] 
  []
 
-<./slides/L5P2KDC.PNG, id=485, 549.55313pt x 374.90062pt>
+<./slides/L5P2KDC.PNG, id=723, 549.55313pt x 374.90062pt>
 File: ./slides/L5P2KDC.PNG Graphic file (type png)
 <use ./slides/L5P2KDC.PNG>
-Package pdftex.def Info: ./slides/L5P2KDC.PNG  used on input line 488.
+Package pdftex.def Info: ./slides/L5P2KDC.PNG  used on input line 491.
 (pdftex.def)             Requested size: 390.0pt x 266.06117pt.
-[22 <./slides/L5P1.PNG>]
-<./slides/L5P3SYM.PNG, id=494, 572.89032pt x 122.70844pt>
+[28]
+<./slides/L5P3SYM.PNG, id=730, 572.89032pt x 122.70844pt>
 File: ./slides/L5P3SYM.PNG Graphic file (type png)
 <use ./slides/L5P3SYM.PNG>
-Package pdftex.def Info: ./slides/L5P3SYM.PNG  used on input line 505.
+Package pdftex.def Info: ./slides/L5P3SYM.PNG  used on input line 508.
 (pdftex.def)             Requested size: 390.0pt x 83.53612pt.
- [23 <./slides/L5P2KDC.PNG>] [24 <./slides/L5P3SYM.PNG>]
-<./slides/L5P4PKA.PNG, id=515, 694.84593pt x 493.845pt>
+ [29 <./slides/L5P2KDC.PNG>] [30 <./slides/L5P3SYM.PNG>]
+<./slides/L5P4PKA.PNG, id=751, 694.84593pt x 493.845pt>
 File: ./slides/L5P4PKA.PNG Graphic file (type png)
 <use ./slides/L5P4PKA.PNG>
-Package pdftex.def Info: ./slides/L5P4PKA.PNG  used on input line 533.
+Package pdftex.def Info: ./slides/L5P4PKA.PNG  used on input line 536.
 (pdftex.def)             Requested size: 390.0pt x 277.17674pt.
- [25 <./slides/L5P4PKA.PNG>]
-<./slides/L5P4CERT.PNG, id=524, 761.09344pt x 581.17125pt>
+ [31 <./slides/L5P4PKA.PNG>]
+<./slides/L5P4CERT.PNG, id=760, 761.09344pt x 581.17125pt>
 File: ./slides/L5P4CERT.PNG Graphic file (type png)
 <use ./slides/L5P4CERT.PNG>
-Package pdftex.def Info: ./slides/L5P4CERT.PNG  used on input line 543.
+Package pdftex.def Info: ./slides/L5P4CERT.PNG  used on input line 546.
 (pdftex.def)             Requested size: 312.00119pt x 238.24628pt.
-<./slides/L5P5WORK.PNG, id=525, 791.20593pt x 481.04718pt>
+<./slides/L5P5WORK.PNG, id=761, 791.20593pt x 481.04718pt>
 File: ./slides/L5P5WORK.PNG Graphic file (type png)
 <use ./slides/L5P5WORK.PNG>
-Package pdftex.def Info: ./slides/L5P5WORK.PNG  used on input line 548.
+Package pdftex.def Info: ./slides/L5P5WORK.PNG  used on input line 551.
 (pdftex.def)             Requested size: 390.0pt x 237.11716pt.
- [26 <./slides/L5P4CERT.PNG>]
-<./slides/L5P5FORM.PNG, id=531, 782.17218pt x 543.53062pt>
+ [32 <./slides/L5P4CERT.PNG>]
+<./slides/L5P5FORM.PNG, id=767, 782.17218pt x 543.53062pt>
 File: ./slides/L5P5FORM.PNG Graphic file (type png)
 <use ./slides/L5P5FORM.PNG>
-Package pdftex.def Info: ./slides/L5P5FORM.PNG  used on input line 551.
+Package pdftex.def Info: ./slides/L5P5FORM.PNG  used on input line 554.
 (pdftex.def)             Requested size: 390.0pt x 271.00992pt.
- [27 <./slides/L5P5WORK.PNG>]
-<./slides/L5P5ORG1.PNG, id=537, 428.35031pt x 176.15813pt>
+ [33 <./slides/L5P5WORK.PNG>]
+<./slides/L5P5ORG1.PNG, id=773, 428.35031pt x 176.15813pt>
 File: ./slides/L5P5ORG1.PNG Graphic file (type png)
 <use ./slides/L5P5ORG1.PNG>
-Package pdftex.def Info: ./slides/L5P5ORG1.PNG  used on input line 563.
+Package pdftex.def Info: ./slides/L5P5ORG1.PNG  used on input line 566.
 (pdftex.def)             Requested size: 218.39987pt x 89.81525pt.
-<./slides/L5P5ORG2.PNG, id=538, 436.63126pt x 167.12437pt>
+<./slides/L5P5ORG2.PNG, id=774, 436.63126pt x 167.12437pt>
 File: ./slides/L5P5ORG2.PNG Graphic file (type png)
 <use ./slides/L5P5ORG2.PNG>
-Package pdftex.def Info: ./slides/L5P5ORG2.PNG  used on input line 566.
+Package pdftex.def Info: ./slides/L5P5ORG2.PNG  used on input line 569.
 (pdftex.def)             Requested size: 218.39987pt x 83.59512pt.
 
-Overfull \hbox (155.99762pt too wide) in paragraph at lines 562--568
+Overfull \hbox (155.99762pt too wide) in paragraph at lines 565--571
 []$[]$$[]$ 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 555--568
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 558--571
 [] 
  []
 
-[28 <./slides/L5P5FORM.PNG> <./slides/L5P5ORG1.PNG> <./slides/L5P5ORG2.PNG>]
-<./slides/L5P5CRL.PNG, id=547, 307.1475pt x 488.57532pt>
+[34 <./slides/L5P5FORM.PNG> <./slides/L5P5ORG1.PNG> <./slides/L5P5ORG2.PNG>]
+<./slides/L5P5CRL.PNG, id=783, 307.1475pt x 488.57532pt>
 File: ./slides/L5P5CRL.PNG Graphic file (type png)
 <use ./slides/L5P5CRL.PNG>
-Package pdftex.def Info: ./slides/L5P5CRL.PNG  used on input line 580.
+Package pdftex.def Info: ./slides/L5P5CRL.PNG  used on input line 583.
 (pdftex.def)             Requested size: 190.0pt x 302.23515pt.
-<./slides/L5P5EXT.PNG, id=548, 730.22812pt x 456.20438pt>
+<./slides/L5P5EXT.PNG, id=784, 730.22812pt x 456.20438pt>
 File: ./slides/L5P5EXT.PNG Graphic file (type png)
 <use ./slides/L5P5EXT.PNG>
-Package pdftex.def Info: ./slides/L5P5EXT.PNG  used on input line 585.
+Package pdftex.def Info: ./slides/L5P5EXT.PNG  used on input line 588.
 (pdftex.def)             Requested size: 390.0pt x 243.64577pt.
 
-[29 <./slides/L5P5CRL.PNG>]
-<./slides/L5P5PKIMOD.PNG, id=554, 674.52pt x 586.44093pt>
+[35 <./slides/L5P5CRL.PNG>]
+<./slides/L5P5PKIMOD.PNG, id=790, 674.52pt x 586.44093pt>
 File: ./slides/L5P5PKIMOD.PNG Graphic file (type png)
 <use ./slides/L5P5PKIMOD.PNG>
-Package pdftex.def Info: ./slides/L5P5PKIMOD.PNG  used on input line 591.
+Package pdftex.def Info: ./slides/L5P5PKIMOD.PNG  used on input line 594.
 (pdftex.def)             Requested size: 390.0pt x 339.08006pt.
-<./slides/L5P5PKIMAN.PNG, id=555, 791.95876pt x 481.04718pt>
+<./slides/L5P5PKIMAN.PNG, id=791, 791.95876pt x 481.04718pt>
 File: ./slides/L5P5PKIMAN.PNG Graphic file (type png)
 <use ./slides/L5P5PKIMAN.PNG>
-Package pdftex.def Info: ./slides/L5P5PKIMAN.PNG  used on input line 592.
+Package pdftex.def Info: ./slides/L5P5PKIMAN.PNG  used on input line 595.
 (pdftex.def)             Requested size: 390.0pt x 236.89694pt.
- [30 <./slides/L5P5EXT.PNG>] [31 <./slides/L5P5PKIMOD.PNG>] [32 <./slides/L5P5P
+ [36 <./slides/L5P5EXT.PNG>] [37 <./slides/L5P5PKIMOD.PNG>] [38 <./slides/L5P5P
 KIMAN.PNG>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 594.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 594.
+<./slides/L6P1AUTHMOD.PNG, id=808, 608.2725pt x 313.17pt>
+File: ./slides/L6P1AUTHMOD.PNG Graphic file (type png)
+<use ./slides/L6P1AUTHMOD.PNG>
+Package pdftex.def Info: ./slides/L6P1AUTHMOD.PNG  used on input line 607.
+(pdftex.def)             Requested size: 390.0pt x 200.79605pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 600--609
+[]
+ []
+
+[39 <./slides/L6P1AUTHMOD.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 626--627
+[]\OT1/cmr/m/n/12 Determines what data
+ []
+
+<./slides/L6P2NAC.PNG, id=814, 776.9025pt x 508.90125pt>
+File: ./slides/L6P2NAC.PNG Graphic file (type png)
+<use ./slides/L6P2NAC.PNG>
+Package pdftex.def Info: ./slides/L6P2NAC.PNG  used on input line 648.
+(pdftex.def)             Requested size: 390.0pt x 255.46724pt.
+[40]
+<./slides/L6P2EAPAUTH.PNG, id=819, 786.68906pt x 483.30562pt>
+File: ./slides/L6P2EAPAUTH.PNG Graphic file (type png)
+<use ./slides/L6P2EAPAUTH.PNG>
+Package pdftex.def Info: ./slides/L6P2EAPAUTH.PNG  used on input line 658.
+(pdftex.def)             Requested size: 390.0pt x 239.60207pt.
+<./slides/L6P2EAPEXCH.PNG, id=821, 757.32938pt x 547.2947pt>
+File: ./slides/L6P2EAPEXCH.PNG Graphic file (type png)
+<use ./slides/L6P2EAPEXCH.PNG>
+Package pdftex.def Info: ./slides/L6P2EAPEXCH.PNG  used on input line 658.
+(pdftex.def)             Requested size: 312.00119pt x 225.46956pt.
+
+Overfull \hbox (4.75006pt too wide) in paragraph at lines 657--659
+[][][][] 
+ []
+
+[41 <./slides/L6P2NAC.PNG>] [42 <./slides/L6P2EAPAUTH.PNG> <./slides/L6P2EAPEXC
+H.PNG>]
+<./slides/L6P2EAPOL.PNG, id=834, 614.295pt x 553.31718pt>
+File: ./slides/L6P2EAPOL.PNG Graphic file (type png)
+<use ./slides/L6P2EAPOL.PNG>
+Package pdftex.def Info: ./slides/L6P2EAPOL.PNG  used on input line 666.
+(pdftex.def)             Requested size: 390.0pt x 351.2934pt.
+ [43] [44 <./slides/L6P2EAPOL.PNG>]
+<./slides/L6P3F1ATT.PNG, id=848, 793.46437pt x 563.10374pt>
+File: ./slides/L6P3F1ATT.PNG Graphic file (type png)
+<use ./slides/L6P3F1ATT.PNG>
+Package pdftex.def Info: ./slides/L6P3F1ATT.PNG  used on input line 686.
+(pdftex.def)             Requested size: 360.6253pt x 255.92906pt.
+ [45] [46 <./slides/L6P3F1ATT.PNG>]
+[47] [48]
+<./slides/L6P4HONEY.PNG, id=875, 799.48688pt x 588.69937pt>
+File: ./slides/L6P4HONEY.PNG Graphic file (type png)
+<use ./slides/L6P4HONEY.PNG>
+Package pdftex.def Info: ./slides/L6P4HONEY.PNG  used on input line 742.
+(pdftex.def)             Requested size: 390.0pt x 287.18066pt.
+ [49]
+<./slides/L6P5MOD1.PNG, id=882, 789.70032pt x 406.51875pt>
+File: ./slides/L6P5MOD1.PNG Graphic file (type png)
+<use ./slides/L6P5MOD1.PNG>
+Package pdftex.def Info: ./slides/L6P5MOD1.PNG  used on input line 755.
+(pdftex.def)             Requested size: 288.50134pt x 148.51146pt.
+ [50 <./slides/L6P4HONEY.PNG>]
+<./slides/L6P5MOD2.png, id=889, 775.39688pt x 538.26094pt>
+File: ./slides/L6P5MOD2.png Graphic file (type png)
+<use ./slides/L6P5MOD2.png>
+Package pdftex.def Info: ./slides/L6P5MOD2.png  used on input line 757.
+(pdftex.def)             Requested size: 288.50134pt x 200.27042pt.
+<./slides/L6P5IPSECARCH.PNG, id=890, 788.9475pt x 338.01282pt>
+File: ./slides/L6P5IPSECARCH.PNG Graphic file (type png)
+<use ./slides/L6P5IPSECARCH.PNG>
+Package pdftex.def Info: ./slides/L6P5IPSECARCH.PNG  used on input line 762.
+(pdftex.def)             Requested size: 390.0pt x 167.08734pt.
+ [51 <./slides/L6P5MOD1.PNG> <./slides/L6P5MOD2.png>]
+<./slides/L6P5ARF.PNG, id=897, 796.47563pt x 531.48563pt>
+File: ./slides/L6P5ARF.PNG Graphic file (type png)
+<use ./slides/L6P5ARF.PNG>
+Package pdftex.def Info: ./slides/L6P5ARF.PNG  used on input line 770.
+(pdftex.def)             Requested size: 312.00119pt x 208.19496pt.
+ [52 <./slides/L6P5IPSECARCH.PNG>]
+Overfull \hbox (0.37091pt too wide) in paragraph at lines 782--783
+[]\OT1/cmr/m/n/12 Internet Se-cu-rity As-so-ci-a-tion and Key Man-age-ment Pro-
+to-col: pro-
+ []
+
+[53 <./slides/L6P5ARF.PNG>]
+Overfull \hbox (5.40146pt too wide) in paragraph at lines 800--801
+[]\OT1/cmr/m/n/12 Accidental as-so-ci-a-tion: Com-pany wire-less LANs or wire-l
+ess ac-cess points
+ []
+
+[54]
+<./slides/L7P1WIFIENCR.PNG, id=912, 483.30562pt x 355.3275pt>
+File: ./slides/L7P1WIFIENCR.PNG Graphic file (type png)
+<use ./slides/L7P1WIFIENCR.PNG>
+Package pdftex.def Info: ./slides/L7P1WIFIENCR.PNG  used on input line 811.
+(pdftex.def)             Requested size: 390.0pt x 286.74016pt.
+<./slides/L7P1WPA2.PNG, id=914, 491.58656pt x 359.84438pt>
+File: ./slides/L7P1WPA2.PNG Graphic file (type png)
+<use ./slides/L7P1WPA2.PNG>
+Package pdftex.def Info: ./slides/L7P1WPA2.PNG  used on input line 812.
+(pdftex.def)             Requested size: 390.0pt x 285.49289pt.
+
+Overfull \hbox (4.75006pt too wide) in paragraph at lines 811--814
+[][][][] 
+ []
+
+[55] [56 <./slides/L7P1WIFIENCR.PNG>]
+<./slides/L7P1WPA2PH.PNG, id=926, 446.41782pt x 357.58594pt>
+File: ./slides/L7P1WPA2PH.PNG Graphic file (type png)
+<use ./slides/L7P1WPA2PH.PNG>
+Package pdftex.def Info: ./slides/L7P1WPA2PH.PNG  used on input line 819.
+(pdftex.def)             Requested size: 390.0pt x 312.4013pt.
+ [57 <./slides/L7P1WPA2.PNG>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [58 <./slides/L7P1WPA2PH.PNG>] [59]
+<./slides/L7P1WPA2PH31.png, id=943, 502.12593pt x 371.13657pt>
+File: ./slides/L7P1WPA2PH31.png Graphic file (type png)
+<use ./slides/L7P1WPA2PH31.png>
+Package pdftex.def Info: ./slides/L7P1WPA2PH31.png  used on input line 837.
+(pdftex.def)             Requested size: 360.6253pt x 266.5612pt.
+<./slides/L7P1WPA2PH32.PNG, id=944, 495.35063pt x 283.81032pt>
+File: ./slides/L7P1WPA2PH32.PNG Graphic file (type png)
+<use ./slides/L7P1WPA2PH32.PNG>
+Package pdftex.def Info: ./slides/L7P1WPA2PH32.PNG  used on input line 838.
+(pdftex.def)             Requested size: 360.6253pt x 206.62115pt.
+<./slides/L7P1WPA2PH33.PNG, id=945, 786.68906pt x 584.93532pt>
+File: ./slides/L7P1WPA2PH33.PNG Graphic file (type png)
+<use ./slides/L7P1WPA2PH33.PNG>
+Package pdftex.def Info: ./slides/L7P1WPA2PH33.PNG  used on input line 839.
+(pdftex.def)             Requested size: 360.6253pt x 268.14526pt.
+ [60 <./slides/L7P1WPA2PH31.png>]
+<./slides/L7P1WPA2PH4.PNG, id=951, 493.845pt x 356.83313pt>
+File: ./slides/L7P1WPA2PH4.PNG Graphic file (type png)
+<use ./slides/L7P1WPA2PH4.PNG>
+Package pdftex.def Info: ./slides/L7P1WPA2PH4.PNG  used on input line 841.
+(pdftex.def)             Requested size: 360.6253pt x 260.57312pt.
+ [61 <./slides/L7P1WPA2PH32.PNG> <./slides/L7P1WPA2PH33.PNG>]
+<./slides/L7P1ATT.PNG, id=959, 664.73344pt x 448.67625pt>
+File: ./slides/L7P1ATT.PNG Graphic file (type png)
+<use ./slides/L7P1ATT.PNG>
+Package pdftex.def Info: ./slides/L7P1ATT.PNG  used on input line 844.
+(pdftex.def)             Requested size: 390.0pt x 263.2379pt.
+<./slides/L7P1WPA3.PNG, id=960, 778.40813pt x 517.18219pt>
+File: ./slides/L7P1WPA3.PNG Graphic file (type png)
+<use ./slides/L7P1WPA3.PNG>
+Package pdftex.def Info: ./slides/L7P1WPA3.PNG  used on input line 845.
+(pdftex.def)             Requested size: 390.0pt x 259.12708pt.
+ [62 <./slides/L7P1WPA2PH4.PNG>] [63 <./slides/L7P1ATT.PNG> <./slides/L7P1WPA3.
+PNG>] [64]
+<./slides/L7P2HSP1.png, id=977, 801.74532pt x 597.73312pt>
+File: ./slides/L7P2HSP1.png Graphic file (type png)
+<use ./slides/L7P2HSP1.png>
+Package pdftex.def Info: ./slides/L7P2HSP1.png  used on input line 873.
+(pdftex.def)             Requested size: 390.0pt x 290.76668pt.
+<./slides/L7P2HSP2.png, id=978, 800.23969pt x 593.21625pt>
+File: ./slides/L7P2HSP2.png Graphic file (type png)
+<use ./slides/L7P2HSP2.png>
+Package pdftex.def Info: ./slides/L7P2HSP2.png  used on input line 874.
+(pdftex.def)             Requested size: 390.0pt x 289.11255pt.
+<./slides/L7P2HSP3.png, id=979, 800.9925pt x 595.47469pt>
+File: ./slides/L7P2HSP3.png Graphic file (type png)
+<use ./slides/L7P2HSP3.png>
+Package pdftex.def Info: ./slides/L7P2HSP3.png  used on input line 875.
+(pdftex.def)             Requested size: 390.0pt x 289.94064pt.
+<./slides/L7P2HSP4.png, id=980, 800.9925pt x 593.21625pt>
+File: ./slides/L7P2HSP4.png Graphic file (type png)
+<use ./slides/L7P2HSP4.png>
+Package pdftex.def Info: ./slides/L7P2HSP4.png  used on input line 876.
+(pdftex.def)             Requested size: 390.0pt x 288.841pt.
+ [65] [66 <./slides/L7P2HSP1.png>] [67 <./slides/L7P2HSP2.png>] [68 <./slides/L
+7P2HSP3.png>]
+<./slides/L7P2SYMK.PNG, id=998, 788.19469pt x 586.44093pt>
+File: ./slides/L7P2SYMK.PNG Graphic file (type png)
+<use ./slides/L7P2SYMK.PNG>
+Package pdftex.def Info: ./slides/L7P2SYMK.PNG  used on input line 879.
+(pdftex.def)             Requested size: 390.0pt x 290.16835pt.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmtt12!
+Missing character: There is no Ä in font cmtt12!
+Missing character: There is no ò in font cmtt12!
+Missing character: There is no ‚ in font cmtt12!
+Missing character: There is no Ä in font cmtt12!
+Missing character: There is no ô in font cmtt12!
+Missing character: There is no ‚ in font cmtt12!
+Missing character: There is no Ä in font cmtt12!
+Missing character: There is no ò in font cmtt12!
+Missing character: There is no ‚ in font cmtt12!
+Missing character: There is no Ä in font cmtt12!
+Missing character: There is no ô in font cmtt12!
+Missing character: There is no ‚ in font cmtt12!
+Missing character: There is no Ä in font cmtt12!
+Missing character: There is no ò in font cmtt12!
+Missing character: There is no ‚ in font cmtt12!
+Missing character: There is no Ä in font cmtt12!
+Missing character: There is no ô in font cmtt12!
+
+Overfull \hbox (3.70892pt too wide) in paragraph at lines 879--896
+\OT1/cmtt/m/n/12 MD5(master[]secret $\OMS/cmsy/m/n/12 jj$ \OT1/cmtt/m/n/12 SHA(
+A $\OMS/cmsy/m/n/12 jj$ \OT1/cmtt/m/n/12 master[]secret $\OMS/cmsy/m/n/12 jj$ \
+OT1/cmtt/m/n/12 ServerHello.random $\OMS/cmsy/m/n/12 jj$
+ []
+
+
+Overfull \hbox (9.88393pt too wide) in paragraph at lines 879--896
+\OT1/cmtt/m/n/12 MD5(master[]secret $\OMS/cmsy/m/n/12 jj$ \OT1/cmtt/m/n/12 SHA(
+BB $\OMS/cmsy/m/n/12 jj$ \OT1/cmtt/m/n/12 master[]secret $\OMS/cmsy/m/n/12 jj$ 
+\OT1/cmtt/m/n/12 ServerHello.random $\OMS/cmsy/m/n/12 jj$
+ []
+
+
+Overfull \hbox (3.21724pt too wide) in paragraph at lines 879--896
+\OT1/cmtt/m/n/12 MD5(master[]secret $\OMS/cmsy/m/n/12 jj$ \OT1/cmtt/m/n/12 SHA(
+CCC $\OMS/cmsy/m/n/12 jj$ \OT1/cmtt/m/n/12 master[]secret $\OMS/cmsy/m/n/12 jj$
+ \OT1/cmtt/m/n/12 ServerHello.random
+ []
+
+[69 <./slides/L7P2HSP4.png>] [70 <./slides/L7P2SYMK.PNG>]
+<./slides/L7P3HBA.PNG, id=1008, 727.21687pt x 554.82281pt>
+File: ./slides/L7P3HBA.PNG Graphic file (type png)
+<use ./slides/L7P3HBA.PNG>
+Package pdftex.def Info: ./slides/L7P3HBA.PNG  used on input line 900.
+(pdftex.def)             Requested size: 390.0pt x 297.5511pt.
+<./slides/L7P3HBAF.PNG, id=1009, 791.20593pt x 428.35031pt>
+File: ./slides/L7P3HBAF.PNG Graphic file (type png)
+<use ./slides/L7P3HBAF.PNG>
+Package pdftex.def Info: ./slides/L7P3HBAF.PNG  used on input line 901.
+(pdftex.def)             Requested size: 390.0pt x 211.14188pt.
+
+Overfull \hbox (12.23485pt too wide) in paragraph at lines 899--902
+\OT1/cmtt/m/n/12 memcpy(bp, pl, payloadsize)\OT1/cmr/m/n/12 . If \OT1/cmtt/m/n/
+12 pl \OT1/cmr/m/n/12 ar-ray is smaller than what \OT1/cmtt/m/n/12 payloadsize
+ []
+
+[71]
+<./slides/L7P3POODLE.PNG, id=1015, 788.9475pt x 556.32843pt>
+File: ./slides/L7P3POODLE.PNG Graphic file (type png)
+<use ./slides/L7P3POODLE.PNG>
+Package pdftex.def Info: ./slides/L7P3POODLE.PNG  used on input line 905.
+(pdftex.def)             Requested size: 390.0pt x 275.00566pt.
+<./slides/L7P3PAD.PNG, id=1016, 786.68906pt x 572.1375pt>
+File: ./slides/L7P3PAD.PNG Graphic file (type png)
+<use ./slides/L7P3PAD.PNG>
+Package pdftex.def Info: ./slides/L7P3PAD.PNG  used on input line 906.
+(pdftex.def)             Requested size: 390.0pt x 283.64107pt.
+<./slides/L7P3PADONE.PNG, id=1017, 749.04843pt x 551.05875pt>
+File: ./slides/L7P3PADONE.PNG Graphic file (type png)
+<use ./slides/L7P3PADONE.PNG>
+Package pdftex.def Info: ./slides/L7P3PADONE.PNG  used on input line 907.
+(pdftex.def)             Requested size: 312.00119pt x 229.53436pt.
+<./slides/L7P3PADPREV.PNG, id=1018, 752.0597pt x 533.74406pt>
+File: ./slides/L7P3PADPREV.PNG Graphic file (type png)
+<use ./slides/L7P3PADPREV.PNG>
+Package pdftex.def Info: ./slides/L7P3PADPREV.PNG  used on input line 908.
+(pdftex.def)             Requested size: 312.00119pt x 221.4345pt.
+ [72 <./slides/L7P3HBA.PNG> <./slides/L7P3HBAF.PNG>] [73 <./slides/L7P3POODLE.P
+NG>] [74 <./slides/L7P3PAD.PNG> <./slides/L7P3PADONE.PNG>]
+<./slides/L7P4SSHSTACK.PNG, id=1037, 622.57594pt x 546.54187pt>
+File: ./slides/L7P4SSHSTACK.PNG Graphic file (type png)
+<use ./slides/L7P4SSHSTACK.PNG>
+Package pdftex.def Info: ./slides/L7P4SSHSTACK.PNG  used on input line 912.
+(pdftex.def)             Requested size: 390.0pt x 342.37173pt.
+<./slides/L7P4SSHPACK.png, id=1038, 786.68906pt x 575.14874pt>
+File: ./slides/L7P4SSHPACK.png Graphic file (type png)
+<use ./slides/L7P4SSHPACK.png>
+Package pdftex.def Info: ./slides/L7P4SSHPACK.png  used on input line 914.
+(pdftex.def)             Requested size: 312.00119pt x 228.10713pt.
+<./slides/L7P4SSHAUTH.PNG, id=1039, 758.835pt x 591.71063pt>
+File: ./slides/L7P4SSHAUTH.PNG Graphic file (type png)
+<use ./slides/L7P4SSHAUTH.PNG>
+Package pdftex.def Info: ./slides/L7P4SSHAUTH.PNG  used on input line 915.
+(pdftex.def)             Requested size: 312.00119pt x 243.28911pt.
+<./slides/L7P4SSHCON.PNG, id=1040, 787.44188pt x 554.07pt>
+File: ./slides/L7P4SSHCON.PNG Graphic file (type png)
+<use ./slides/L7P4SSHCON.PNG>
+Package pdftex.def Info: ./slides/L7P4SSHCON.PNG  used on input line 916.
+(pdftex.def)             Requested size: 312.00119pt x 219.52737pt.
+<./slides/L7P4SSHPORT.PNG, id=1041, 744.53156pt x 593.96906pt>
+File: ./slides/L7P4SSHPORT.PNG Graphic file (type png)
+<use ./slides/L7P4SSHPORT.PNG>
+Package pdftex.def Info: ./slides/L7P4SSHPORT.PNG  used on input line 917.
+(pdftex.def)             Requested size: 312.00119pt x 248.91245pt.
+ [75 <./slides/L7P3PADPREV.PNG>] [76 <./slides/L7P4SSHSTACK.PNG>] [77 <./slides
+/L7P4SSHPACK.png> <./slides/L7P4SSHAUTH.PNG>] [78 <./slides/L7P4SSHCON.PNG> <./
+slides/L7P4SSHPORT.PNG>]
+<./slides/L8P1THR.PNG, id=1063, 752.0597pt x 548.80031pt>
+File: ./slides/L8P1THR.PNG Graphic file (type png)
+<use ./slides/L8P1THR.PNG>
+Package pdftex.def Info: ./slides/L8P1THR.PNG  used on input line 924.
+(pdftex.def)             Requested size: 467.99881pt x 341.51714pt.
+<./slides/L8P1MECH.PNG, id=1064, 752.0597pt x 551.81157pt>
+File: ./slides/L8P1MECH.PNG Graphic file (type png)
+<use ./slides/L8P1MECH.PNG>
+Package pdftex.def Info: ./slides/L8P1MECH.PNG  used on input line 925.
+(pdftex.def)             Requested size: 312.00119pt x 228.93018pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 924--926
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--926
+
+ []
+
+[79]
+Overfull \vbox (76.38065pt too high) has occurred while \output is active []
+
+
+[80 <./slides/L8P1THR.PNG> <./slides/L8P1MECH.PNG>]
+<./slides/L8P1SMIME.PNG, id=1076, 758.08218pt x 540.51938pt>
+File: ./slides/L8P1SMIME.PNG Graphic file (type png)
+<use ./slides/L8P1SMIME.PNG>
+Package pdftex.def Info: ./slides/L8P1SMIME.PNG  used on input line 927.
+(pdftex.def)             Requested size: 312.00119pt x 222.46388pt.
+<./slides/L8P1sSMIME.PNG, id=1077, 755.82375pt x 532.99126pt>
+File: ./slides/L8P1sSMIME.PNG Graphic file (type png)
+<use ./slides/L8P1sSMIME.PNG>
+Package pdftex.def Info: ./slides/L8P1sSMIME.PNG  used on input line 928.
+(pdftex.def)             Requested size: 350.99762pt x 247.51306pt.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Overfull \hbox (13.53008pt too wide) in paragraph at lines 930--935
+\OT1/cmr/m/n/12 mes-sage. First, a sig-na-ture is gen-er-ated for the plain-tex
+t mes-sage and prepended
+ []
+
+[81 <./slides/L8P1SMIME.PNG> <./slides/L8P1sSMIME.PNG>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+<./slides/L8P1PGPK.PNG, id=1084, 755.82375pt x 558.58687pt>
+File: ./slides/L8P1PGPK.PNG Graphic file (type png)
+<use ./slides/L8P1PGPK.PNG>
+Package pdftex.def Info: ./slides/L8P1PGPK.PNG  used on input line 940.
+(pdftex.def)             Requested size: 350.99762pt x 259.39928pt.
+<./slides/L8P1COMP.PNG, id=1085, 736.25063pt x 487.8225pt>
+File: ./slides/L8P1COMP.PNG Graphic file (type png)
+<use ./slides/L8P1COMP.PNG>
+Package pdftex.def Info: ./slides/L8P1COMP.PNG  used on input line 941.
+(pdftex.def)             Requested size: 390.0pt x 258.4107pt.
+ [82] [83 <./slides/L8P1PGPK.PNG> <./slides/L8P1COMP.PNG>] [84]
+<./slides/L8P2SQL.PNG, id=1107, 724.95844pt x 551.81157pt>
+File: ./slides/L8P2SQL.PNG Graphic file (type png)
+<use ./slides/L8P2SQL.PNG>
+Package pdftex.def Info: ./slides/L8P2SQL.PNG  used on input line 963.
+(pdftex.def)             Requested size: 350.99762pt x 267.16519pt.
+<./slides/L8P2XXE.PNG, id=1108, 751.30687pt x 505.13719pt>
+File: ./slides/L8P2XXE.PNG Graphic file (type png)
+<use ./slides/L8P2XXE.PNG>
+Package pdftex.def Info: ./slides/L8P2XXE.PNG  used on input line 964.
+(pdftex.def)             Requested size: 350.99762pt x 235.99628pt.
+<./slides/L8P2XSS.PNG, id=1109, 749.80125pt x 483.30562pt>
+File: ./slides/L8P2XSS.PNG Graphic file (type png)
+<use ./slides/L8P2XSS.PNG>
+Package pdftex.def Info: ./slides/L8P2XSS.PNG  used on input line 965.
+(pdftex.def)             Requested size: 350.99762pt x 226.2466pt.
+<./slides/L8P2XSSPREV.PNG, id=1110, 537.50812pt x 188.95593pt>
+File: ./slides/L8P2XSSPREV.PNG Graphic file (type png)
+<use ./slides/L8P2XSSPREV.PNG>
+Package pdftex.def Info: ./slides/L8P2XSSPREV.PNG  used on input line 966.
+(pdftex.def)             Requested size: 350.99762pt x 123.39076pt.
+ [85] [86 <./slides/L8P2SQL.PNG> <./slides/L8P2XXE.PNG>]
+<./slides/L8P3MWT.png, id=1127, 874.76813pt x 647.41875pt>
+File: ./slides/L8P3MWT.png Graphic file (type png)
+<use ./slides/L8P3MWT.png>
+Package pdftex.def Info: ./slides/L8P3MWT.png  used on input line 969.
+(pdftex.def)             Requested size: 390.0pt x 288.63882pt.
+ [87 <./slides/L8P2XSS.PNG> <./slides/L8P2XSSPREV.PNG>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+[88 <./slides/L8P3MWT.png>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+<./slides/L8P3MWP.PNG, id=1140, 877.02657pt x 366.61969pt>
+File: ./slides/L8P3MWP.PNG Graphic file (type png)
+<use ./slides/L8P3MWP.PNG>
+Package pdftex.def Info: ./slides/L8P3MWP.PNG  used on input line 982.
+(pdftex.def)             Requested size: 390.0pt x 163.03056pt.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+ [89]
+<./slides/L8P3MWPL.PNG, id=1149, 879.285pt x 598.48593pt>
+File: ./slides/L8P3MWPL.PNG Graphic file (type png)
+<use ./slides/L8P3MWPL.PNG>
+Package pdftex.def Info: ./slides/L8P3MWPL.PNG  used on input line 987.
+(pdftex.def)             Requested size: 390.0pt x 265.45328pt.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [90 <./slides/L8P3MWP.PNG>] [91 <./slides/L8P3MWPL.PNG>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+<./slides/L8P3DDOSSYN.PNG, id=1161, 881.54344pt x 618.81187pt>
+File: ./slides/L8P3DDOSSYN.PNG Graphic file (type png)
+<use ./slides/L8P3DDOSSYN.PNG>
+Package pdftex.def Info: ./slides/L8P3DDOSSYN.PNG  used on input line 995.
+(pdftex.def)             Requested size: 350.99762pt x 246.38728pt.
+<./slides/L8P3DDOSICMP.png, id=1162, 879.285pt x 646.66594pt>
+File: ./slides/L8P3DDOSICMP.png Graphic file (type png)
+<use ./slides/L8P3DDOSICMP.png>
+Package pdftex.def Info: ./slides/L8P3DDOSICMP.png  used on input line 996.
+(pdftex.def)             Requested size: 350.99762pt x 258.13882pt.
+ [92] [93 <./slides/L8P3DDOSSYN.PNG> <./slides/L8P3DDOSICMP.png>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+[94]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [95] [96]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1026.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1026.
  (CNS.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 594.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 594.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1026.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1026.
+
 Package rerunfilecheck Info: File `CNS.out' has not changed.
-(rerunfilecheck)             Checksum: ACC6049EA7FF7D3427228188EA726765;5395.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 594.
+(rerunfilecheck)             Checksum: 056B2D9FE31D0A51FE46EB585A7B3940;8568.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1026.
  ) 
 Here is how much of TeX's memory you used:
- 19826 strings out of 493305
- 369941 string characters out of 3146678
- 438087 words of memory out of 3000000
- 22878 multiletter control sequences out of 15000+200000
- 13669 words of font info for 53 fonts, out of 3000000 for 9000
+ 20289 strings out of 493305
+ 378846 string characters out of 3146678
+ 437795 words of memory out of 3000000
+ 23137 multiletter control sequences out of 15000+200000
+ 13838 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,10n,80p,752b,780s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,10n,80p,1353b,648s stack positions out of 5000i,500n,10000p,200000b,50000s
 <D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmex10.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.p
 fb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><D:/MiKTeX/fonts/type1/p
@@ -987,11 +1534,12 @@ lic/amsfonts/cm/cmr17.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><D
 :/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmr8.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/M
 iKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><D:/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmsy8.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><
-D:/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on CNS.pdf (32 pages, 1115763 bytes).
+sfonts/cm/cmsy8.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><D:/Mi
+KTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><D:/MiKTeX/fonts/type1/publ
+ic/amsfonts/symbols/msbm10.pfb>
+Output written on CNS.pdf (96 pages, 6222559 bytes).
 PDF statistics:
- 655 PDF objects out of 1000 (max. 8388607)
- 145 named destinations out of 1000 (max. 500000)
- 639 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1313 PDF objects out of 1440 (max. 8388607)
+ 291 named destinations out of 1000 (max. 500000)
+ 1252 words of extra memory for PDF output out of 10000 (max. 10000000)
 
