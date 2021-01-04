@@ -311,7 +311,7 @@ Note that it should be infeasible to calculate $p, q$ and that this is the case 
  \end{algorithmic}
  	
  \subsubsection{Efficient operation using public key}
- To make encryption as efficient as possible, chose an exponent with few 1 bits $\rightarrow$ the most common choice is $2^{16+1}, 3, 17$ since each of these numbers only has 2 1 bits. Note that small values are vulnerable to simple attacks but that this can be solved by adding a unique psuedorandom bit string as padding.
+ To make encryption as efficient as possible, chose an exponent with few 1 bits $\rightarrow$ the most common choice is $2^{16}+1, 3, 17$ since each of these numbers only has 2 1 bits. Note that small values are vulnerable to simple attacks but that this can be solved by adding a unique psuedorandom bit string as padding.
  
  \subsubsection{Efficient operation using private key}
  If $e$ is chosen to be small, then $d$ is large by definition. To speed up calculations for large $d$ we can use the Chinese remainder theorem.\\
@@ -368,8 +368,8 @@ There are a few safety precautions that can be taken:
  Exploit properties of RSA. In this attack the attacker chooses some ciphertext and is given the corresponding plaintext in return. Another possibility is that the attacker sends chosen blocks of data that yield additional information useful for cryptoanalysis.\\
  Given the property that $E(PU,M_1)xE(PU,M_2) = E(PU, M_1xM_2)$ and $C=M^e\text{ mod }n$, we can derive $M$ using the CCA attack as follows
  \begin{itemize}
- 	\item Compute $x = (Cx2^e)\text{ mod }n$
- 	\item Submit $x$ as a chosen ciphertext and receive $y = x^d\text{ mod }n$
+ 	\item Compute $X = (Cx2^e)\text{ mod }n$
+ 	\item Submit $X$ as a chosen ciphertext and receive $y = X^d\text{ mod }n$
  \end{itemize}
 $\Rightarrow x = (C\text{ mod }n)x(2^e\text{ mod }n) = (M^e\text{ mod }n)x(2^e\text{ mod }n) = (2M)^e\text{ mod }n$\\
 Therefore $y = (2M)\text{ mod }n$, from which $M$ can be easily deduced.
@@ -458,7 +458,7 @@ The encoding process consists of the following steps.
  	\item $A$ selects the key and physically delivers it to $B$
  	\item Third party selects a key and physically delivers it to $A$ and $B$
  	\item If $A$ and $B$ already share a key, a new key can be encrypted using the old key and transmitted over the network
- 	\item If $A$ and $B$ have anencrypted connection to a third party $C$, $C$ can deliver a key on the encrypted link to $A$ and $B$
+ 	\item If $A$ and $B$ have an encrypted connection to a third party $C$, $C$ can deliver a key on the encrypted link to $A$ and $B$
  \end{enumerate}
  Solutions 1 and 2 are infeasible in large scale networks. If in solution 3 an attacker determines a single key then all future keys are compromised, due to the amount of keys that need to be maintained this solution too can only be used on small scale.\\
  It thus follows that solution 4 is the preferred one.
@@ -467,7 +467,7 @@ The encoding process consists of the following steps.
  This way of working avoids the need for a central trusted authority, but it can only be used in small scale scenarios like local networks.\\
  \includegraphics[width=\linewidth]{./slides/L5P1.PNG}
  \begin{enumerate}
- 	\item $A$ send $ID_A||N_1$ to $B$ where $N_1$ is a random nonce
+ 	\item $A$ sends $ID_A||N_1$ to $B$ where $N_1$ is a random nonce
  	\item $B$ uses the previously shared master key $K_m$ to encrypt a newly generated key $K_s$
  	\item After decryption $A$ will send $E(K_s, f(N_2))$ to $B$
  \end{enumerate}
@@ -649,7 +649,7 @@ Multifactor authentication combines multiple methods to improve security.\\
  As we can see there are 3 actors:
  \begin{itemize}
  	\item Supplicants: attempts to access the network, can be any IP based device
- 	\item Policy server: determines what access should be granted to supplicant, relies in back end services such as patch management, anti-virus, anti-spyware, user directory
+ 	\item Policy server: determines what access should be granted to supplicant, relies on back end services such as patch management, anti-virus, anti-spyware, user directory
  	\item Network access server: access control points for remote users, can be an authentication server or DHCP/VLAN server
  \end{itemize}
  
